@@ -1,6 +1,6 @@
 ### Mi nombre es Matias Andres Castro Quezada 👋
 #### Desarrollador full-stack 💻♨️
-
+- 👉🏻 gusto de saludarte :)
 
 
 #### Actualmente me dedico a:
@@ -21,7 +21,7 @@ JavaScript, HTML, CSS, Bootstrap, ReactJS
 ____
 
 ##### Backend Development
-NodeJs, PHP, JavaScript , C# 
+NodeJs, PHP, JavaScript , C# , java , visual basic , python
 _____
 
 ##### Database
@@ -36,7 +36,3 @@ _____
 - 📫 si deseas contactarme puedes enviarme un correo a matiascastrogon@hotmail.com 
 - 👉🏻 gusto de saludarte :)
 -->
-<!---
-MatiasACastro/MatiasACastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
