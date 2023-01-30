@@ -21,7 +21,7 @@ JavaScript, HTML, CSS, Bootstrap, ReactJS
 ____
 
 ##### Backend Development
-NodeJs, PHP, JavaScript , C# , java , visual basic , python
+NodeJs, PHP, JavaScript , C# , java , visual basic , python , .NET Core/Framework, ASP.NET Core/Framework
 _____
 
 ##### Database
